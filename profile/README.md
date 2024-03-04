@@ -1,4 +1,4 @@
-Financial and governance open source infrastructure for communities, such as: 
+Financial and governance infrastructure for communities, such as: 
 
 1. Mesto
 2. Methodology city
