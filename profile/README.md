@@ -1,4 +1,4 @@
-Financial and governance open source infrastructure for vernal communities, such as: 
+Financial and governance open source infrastructure for communities, such as: 
 
 1. Montelibero
 2. New sincerity
