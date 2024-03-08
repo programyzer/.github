@@ -8,7 +8,7 @@ In the evolving landscape of the internet, the emergence of Web 2.5 represents a
 
 ## Transparency
 
-Transparency in Web 2.5 infrastructure means that all operations, transactions, and decisions are open and verifiable by the community members. This requires the implementation of public, immutable ledgers and open-source software, ensuring that any action taken within the ecosystem can be audited and scrutinized by anyone. Transparency fosters trust among users, crucial for a libertarian-oriented project.
+[Transparency](/requirements/Transparency.md) in Web 2.5 infrastructure means that all operations, transactions, and decisions are open and verifiable by the community members. This requires the implementation of public, immutable ledgers and open-source software, ensuring that any action taken within the ecosystem can be audited and scrutinized by anyone. Transparency fosters trust among users, crucial for a libertarian-oriented project.
 
 
 ## Privacy
