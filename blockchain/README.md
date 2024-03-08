@@ -22,11 +22,11 @@ A robust blockchain layer is crucial for our Web 2.5 platform as it will support
 
 **Options Considered**
 
-1. **Ethereum:** The most established smart contract platform with a strong community but known scalability issues and potentially high gas fees.
-2. **Gnosis Chain:** An Ethereum sidechain focused on scalability with lower transaction costs and faster speeds.
-3. **Stellar:** Primarily designed for efficient cross-border payments, offering fast and low-cost transactions, with more basic smart contract functionality.
-4. **Polygon:** Ethereum scaling solution (Layer-2), offering higher throughput and lower fees while retaining Ethereum's security.
-5. **Alternative Layer 1 Chains:** Examples include Cardano, Solana, Algorand (Evaluate based on decentralization, developer ecosystem, and alignment with project requirements)
+1. **[Ethereum](Ethereum.md):** The most established smart contract platform with a strong community but known scalability issues and potentially high gas fees.
+2. **[Gnosis Chain](Gnosis.md):** An Ethereum sidechain focused on scalability with lower transaction costs and faster speeds.
+3. **[Stellar](Stellar.md):** Primarily designed for efficient cross-border payments, offering fast and low-cost transactions, with more basic smart contract functionality.
+4. **[Polygon](Polygon.md):** Ethereum scaling solution (Layer-2), offering higher throughput and lower fees while retaining Ethereum's security.
+5. **Alternative Layer 1 Chains:** Examples include [Cardano](Cardano.md), [Solana](Solana.md), Algorand (Evaluate based on decentralization, developer ecosystem, and alignment with project requirements)
 
 **Decision**
 
