@@ -10,7 +10,7 @@ Mesto is envisioned as a digital-first community, keen on leveraging technology 
 
 ## Montelibero
 
-[Montelibero](/customers/Montelibero.md) represents a planned community with a strong emphasis on libertarian values, striving for minimal governance and maximal personal freedom. Its residents, deeply invested in self-reliance and individual rights, would find the decentralization and security features of the Web 2.5 project particularly appealing. By adopting this infrastructure, Montelibero can enhance its commitment to creating a self-sustaining and secure environment for its residents, both in the physical and digital realms.
+[Montelibero](Montelibero.md) represents a planned community with a strong emphasis on libertarian values, striving for minimal governance and maximal personal freedom. Its residents, deeply invested in self-reliance and individual rights, would find the decentralization and security features of the Web 2.5 project particularly appealing. By adopting this infrastructure, Montelibero can enhance its commitment to creating a self-sustaining and secure environment for its residents, both in the physical and digital realms.
 
 ## Methodology City
 

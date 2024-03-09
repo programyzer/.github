@@ -3,17 +3,17 @@
 
 ## Introduction
 
-In the evolving landscape of the internet, the emergence of Web 2.5 represents a transitional phase, blending the interactive, social features of Web 2.0 with the decentralized, trustless ideals of Web 3.0. For libertarian communities, this evolution presents a unique opportunity to establish a digital ecosystem that prioritizes individual liberty, privacy, and autonomy. This document outlines the infrastructure requirements essential for the successful deployment of a Web 2.5 project tailored for libertarian communities, focusing on transparency, privacy, security, decentralization, scalability, desirability, feasibility, adaptability, and viability.
+In the evolving landscape of the internet, the emergence of Web 2.5 represents a transitional phase, blending the interactive, social features of Web 2.0 with the [decentralized](/blockchain/README.md), trustless ideals of Web 3.0. For libertarian communities, this evolution presents a unique opportunity to establish a digital ecosystem that prioritizes individual liberty, privacy, and autonomy. This document outlines the infrastructure requirements essential for the successful deployment of a Web 2.5 project tailored for libertarian communities, focusing on transparency, privacy, security, decentralization, scalability, desirability, feasibility, adaptability, and viability.
 
 
 ## Transparency
 
-[Transparency](/requirements/Transparency.md) in Web 2.5 infrastructure means that all operations, transactions, and decisions are open and verifiable by the community members. This requires the implementation of public, immutable ledgers and open-source software, ensuring that any action taken within the ecosystem can be audited and scrutinized by anyone. Transparency fosters trust among users, crucial for a libertarian-oriented project.
+[Transparency](Transparency.md) in Web 2.5 infrastructure means that all operations, transactions, and decisions are open and verifiable by the community members. This requires the implementation of public, immutable ledgers and open-source software, ensuring that any action taken within the ecosystem can be audited and scrutinized by anyone. Transparency fosters trust among users, crucial for a libertarian-oriented project.
 
 
 ## Privacy
 
-Privacy is paramount in libertarian communities. The infrastructure must incorporate advanced encryption methods, anonymous transactions, and secure communication channels to protect user data from unauthorized access and surveillance. Utilizing technologies like zero-knowledge proofs can enable interaction within the community without compromising personal information.
+[Privacy](Privacy.md) is paramount in libertarian communities. The infrastructure must incorporate advanced encryption methods, anonymous transactions, and secure communication channels to protect user data from unauthorized access and surveillance. Utilizing technologies like zero-knowledge proofs can enable interaction within the community without compromising personal information.
 
 
 ## Security
