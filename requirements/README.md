@@ -28,7 +28,7 @@ The core of a libertarian Web 2.5 project lies in its decentralization. The infr
 
 ## Scalability
 
-For the platform to accommodate growing numbers of users and transactions without compromising performance or security, scalability is essential. Solutions may include layer-2 scaling solutions, sharding, or off-chain transaction processing, ensuring that the infrastructure can handle increased load efficiently.
+For the platform to accommodate growing numbers of users and transactions without compromising performance or security, [scalability](Scalability.md) is essential. Solutions may include layer-2 scaling solutions, sharding, or off-chain transaction processing, ensuring that the infrastructure can handle increased load efficiently.
 
 
 ## Desirability
