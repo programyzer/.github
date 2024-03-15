@@ -14,7 +14,7 @@ Mesto is envisioned as a digital-first community, keen on leveraging technology 
 
 ## Methodology City
 
-Methodology City is a conceptual community that focuses on applying rational and scientific methods to societal organization. This community values efficiency, transparency, and adaptability, principles that are deeply embedded in the Web 2.5 project. The emphasis on scalable, adaptable, and feasible technological solutions makes the Web 2.5 infrastructure an attractive proposition for Methodology City, as it seeks to build a society based on rationality and innovation.
+[Methodology City](./methodology/README.md) is a conceptual community that focuses on applying metodological methods to societal organization. This community values efficiency, transparency, and adaptability, principles that are deeply embedded in the Web 2.5 project. The emphasis on scalable, adaptable, and feasible technological solutions makes the Web 2.5 infrastructure an attractive proposition for Methodology City, as it seeks to build a society based on methodology and innovation.
 
 ## New Sincerity
 
