@@ -33,7 +33,7 @@ For the platform to accommodate growing numbers of users and transactions withou
 
 ## Desirability
 
-The platform must offer compelling features and a user-friendly interface to attract and retain users. This includes intuitive navigation, customizable user experiences, and the integration of desirable applications and services that meet the specific needs and preferences of libertarian communities.
+The platform must offer compelling features and a user-friendly interface to attract and retain users. This includes intuitive navigation, customizable user experiences, and the integration of [desirable](Desirability.md) applications and services that meet the specific needs and preferences of libertarian communities.
 
 
 ## Feasibility
