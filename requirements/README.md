@@ -38,7 +38,7 @@ The platform must offer compelling features and a user-friendly interface to att
 
 ## Feasibility
 
-Developing a Web 2.5 infrastructure that meets all the above requirements must also be practical and sustainable. This involves assessing the technological, economic, and human resources available and developing a realistic roadmap for deployment. Cost-effectiveness, resource availability, and technical capabilities are all factors that need careful consideration.
+Developing a Web 2.5 infrastructure that meets all the above requirements must also be [practical](Feasibility.md) and sustainable. This involves assessing the technological, economic, and human resources available and developing a realistic roadmap for deployment. Cost-effectiveness, resource availability, and technical capabilities are all factors that need careful consideration.
 
 
 ## Adaptability
