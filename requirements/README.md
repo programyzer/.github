@@ -43,7 +43,7 @@ Developing a Web 2.5 infrastructure that meets all the above requirements must a
 
 ## Adaptability
 
-In the rapidly changing digital landscape, the ability to adapt to new technologies, regulatory environments, and community needs is crucial. The infrastructure should be designed with flexibility in mind, allowing for easy updates, the integration of new features, and the pivoting of strategies to address emerging challenges and opportunities.
+In the rapidly changing digital landscape, the [ability to adapt](Adaptability.md) to new technologies, regulatory environments, and community needs is crucial. The infrastructure should be designed with flexibility in mind, allowing for easy updates, the integration of new features, and the pivoting of strategies to address emerging challenges and opportunities.
 
 
 ## Viability
