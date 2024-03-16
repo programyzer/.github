@@ -18,7 +18,7 @@ In the evolving landscape of the internet, the emergence of Web 2.5 represents a
 
 ## Security
 
-Robust security measures are non-negotiable to safeguard the platform against external threats and internal vulnerabilities. This involves multi-layered security protocols, including but not limited to, regular audits, secure coding practices, and the implementation of decentralized identity and access management systems that minimize the risk of breaches and data theft.
+Robust [security](Security.md) measures are non-negotiable to safeguard the platform against external threats and internal vulnerabilities. This involves multi-layered security protocols, including but not limited to, regular audits, secure coding practices, and the implementation of decentralized identity and access management systems that minimize the risk of breaches and data theft.
 
 
 ## Decentralization
