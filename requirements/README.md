@@ -23,7 +23,7 @@ Robust security measures are non-negotiable to safeguard the platform against ex
 
 ## Decentralization
 
-The core of a libertarian Web 2.5 project lies in its decentralization. The infrastructure must avoid central points of control or failure, distributing data and decision-making across a wide network of nodes. This can be achieved through peer-to-peer technologies, distributed ledger technologies (like blockchain), and decentralized autonomous organizations (DAOs) for governance.
+The core of a libertarian Web 2.5 project lies in its [decentralization](./Decentralization.md). The infrastructure must avoid central points of control or failure, distributing data and decision-making across a wide network of nodes. This can be achieved through peer-to-peer technologies, distributed ledger technologies (like blockchain), and decentralized autonomous organizations (DAOs) for governance.
 
 
 ## Scalability
