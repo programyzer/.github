@@ -4,6 +4,18 @@
 
 The Web 2.5 project, designed to cater to the ideals of libertarian communities, positions itself as a groundbreaking initiative in the realm of digital infrastructure. It emphasizes individual liberty, privacy, autonomy, and decentralized governance, appealing to a specific segment of digital and real-world communities. Below, we outline potential customer communities that embody libertarian principles and could significantly benefit from integrating the Web 2.5 project into their social and operational fabric.
 
+## Estonia
+
+Estonia represents a pioneering digital-first nation, renowned for its e-Residency program and digital government services. This country's forward-thinking approach to digitalization makes it an ideal customer for scalable digital infrastructure. Estonia's continuous pursuit of innovation in public services and digital governance would benefit from the project's emphasis on efficiency and dynamic capacity, ensuring that the nation remains at the forefront of digital government initiatives.
+
+## Liberland
+
+Liberland is a nascent micronation founded on libertarian principles, striving for minimal government interference and maximum personal freedom. The project's modular design and efficient protocols are perfectly aligned with Liberland's need for a flexible, scalable digital infrastructure that can support its growing community and the libertarian ideals at its core. As Liberland works to establish its presence and governance structures, the project can provide the technological backbone necessary for its ambitious vision.
+
+## Liberstad
+
+Liberstad, part of the larger Liberstad project in Norway, is creating a private city built upon the principles of anarcho-capitalism. It seeks autonomy and a free-market economy within its jurisdiction. The scalable digital infrastructure project, with its focus on modular design and dynamic capacity, can offer Liberstad a robust platform to manage its services, transactions, and community engagement efficiently and securely, reflecting its commitment to freedom and self-sustainability.
+
 ## Mesto
 
 Mesto is envisioned as a digital-first community, keen on leveraging technology to foster a society where personal freedom and market-driven solutions prevail. This community, characterized by its innovative approach to urban living and digital interaction, seeks platforms that prioritize user privacy, autonomy, and decentralized governance. The Web 2.5 project aligns with Mesto's goals by offering a digital infrastructure that supports transparent, secure, and private online spaces, making it an ideal partner for this forward-thinking community.
