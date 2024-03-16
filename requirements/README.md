@@ -48,7 +48,7 @@ In the rapidly changing digital landscape, the [ability to adapt](Adaptability.m
 
 ## Viability
 
-Finally, the long-term viability of the project depends on its ability to sustain itself economically and grow its user base. This may involve the creation of value through services, digital assets, or innovative economic models that incentivize participation, investment, and contribution from the community.
+Finally, the long-term [viability](Viability.md) of the project depends on its ability to sustain itself economically and grow its user base. This may involve the creation of value through services, digital assets, or innovative economic models that incentivize participation, investment, and contribution from the community.
 
 
 ## Conclusion
