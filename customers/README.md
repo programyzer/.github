@@ -34,7 +34,7 @@ Initiated by Russian libertarian activist Mikhail Svetov, [New Sincerity](./sinc
 
 ## Praxis
 
-Praxis is a community dedicated to the practical application of libertarian and anarchist principles. It emphasizes direct action, self-management, and the creation of parallel institutions as means to achieve societal change. The decentralization, security, and privacy features of the Web 2.5 project directly support Praxis's goals by providing a robust platform for secure, autonomous, and private communication and organization. The adaptability and scalability of the Web 2.5 infrastructure make it a valuable tool for communities like Praxis, which require flexible and resilient digital environments to support their dynamic and evolving initiatives.
+[Praxis](./praxis/README.md) is a community dedicated to the practical application of libertarian and anarchist principles. It emphasizes direct action, self-management, and the creation of parallel institutions as means to achieve societal change. The decentralization, security, and privacy features of the Web 2.5 project directly support Praxis's goals by providing a robust platform for secure, autonomous, and private communication and organization. The adaptability and scalability of the Web 2.5 infrastructure make it a valuable tool for communities like Praxis, which require flexible and resilient digital environments to support their dynamic and evolving initiatives.
 
 ## Conclusion
 
