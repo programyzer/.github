@@ -30,7 +30,7 @@ Mesto is envisioned as a digital-first community, keen on leveraging technology 
 
 ## New Sincerity
 
-New Sincerity is a cultural movement that rejects cynicism and irony in favor of earnestness and authenticity. Communities aligned with this philosophy are likely to appreciate the Web 2.5 project's commitment to transparency, desirability, and viability. By promoting genuine interaction and transparent governance, the Web 2.5 infrastructure can serve as the digital backbone for communities striving for sincerity and authenticity in their communications and interactions.
+Initiated by Russian libertarian activist Mikhail Svetov, [New Sincerity](./sincerity/README.md) is a pioneering project aimed at preserving Russian culture and promoting libertarian ideology worldwide. This unique initiative establishes a network of cultural and political clubs across the globe, serving as vibrant community spaces for intellectual exchange and cultural preservation.
 
 ## Praxis
 
