@@ -10,7 +10,7 @@ Estonia represents a pioneering digital-first nation, renowned for its e-Residen
 
 ## Liberland
 
-Liberland is a nascent micronation founded on libertarian principles, striving for minimal government interference and maximum personal freedom. The project's modular design and efficient protocols are perfectly aligned with Liberland's need for a flexible, scalable digital infrastructure that can support its growing community and the libertarian ideals at its core. As Liberland works to establish its presence and governance structures, the project can provide the technological backbone necessary for its ambitious vision.
+[Liberland](./liberland/README.md) is a nascent micronation founded on libertarian principles, striving for minimal government interference and maximum personal freedom. The project's modular design and efficient protocols are perfectly aligned with Liberland's need for a flexible, scalable digital infrastructure that can support its growing community and the libertarian ideals at its core. As Liberland works to establish its presence and governance structures, the project can provide the technological backbone necessary for its ambitious vision.
 
 ## Liberstad
 
